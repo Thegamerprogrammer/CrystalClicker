@@ -30,7 +30,7 @@ answer = input('Want Help? yes/no?: ')
 if answer.lower().strip() == "yes":
     print('Here Delay Means How Fast The Clicker Needs To Click')
     print('For Example: If The Number Is Below 1 set it as 0.0<yournumber>')
-    print('If The Number Is Below That Nuber set it as 0.00<yournumber>')
+    print('If The Number Is Below That Number set it as 0.00<yournumber>')
     print('I Hope This Helped You!')
     print('Restart To Run The Program')
     winsound.Beep(1000,1000)
